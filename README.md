@@ -1,5 +1,5 @@
 # Purpose
-This repository is a Terraform resource naming module that can be used to standardize cloud resource names in a centralized location. As currently constructed this module will only work with AWS, but can be easily modified to work with any cloud provider (or any AWS provider).
+This repository is a Terraform resource naming module that can be used to standardize cloud resource names in a centralized location. As currently constructed this module will only work with AWS but can be modified to work with any cloud provider (or any Terraform provider).
 
 # Assumptions
 * This repository is intended to be sample code or a starting point for a client to create a naming standard.
