@@ -1,6 +1,6 @@
 variable "environment" {
-    description = "Enviornment of the AWS Account"
-    type        = string
+  description = "Enviornment of the AWS Account"
+  type        = string
 }
 
 variable "resource_type" {
