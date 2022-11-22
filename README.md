@@ -13,8 +13,6 @@ This repository is a Terraform resource naming module that can be used to standa
     Installation guide ->https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-install.html
 
 # Usage
-* Satisfy environment, resource_type and name of the resource being named
-
 * This module produces three types of names:
   - Availability zone - Resources that are deployed in an availability zone IE ec2 or eni's
   - Regional - Resources that are deployed in a region IE vpc or security group
