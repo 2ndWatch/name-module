@@ -16,7 +16,7 @@ This repository is a Terraform resource naming module that can be used to standa
 * This module produces three types of names:
   - Availability zone - Resources that are deployed in an availability zone IE ec2 or eni
   - Regional - Resources that are deployed in a region IE vpc or security group
-  - Global - Resource that are global IE IAM resources.
+  - Global - Resource that are global IE IAM resources
 
 
 
